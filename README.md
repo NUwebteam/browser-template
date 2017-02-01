@@ -7,7 +7,7 @@ front-end frameworks included.
 
 ## Dependencies
 
-Install with `npm install`.
+Install with `npm install && bower install`.
 
 -   [Bootstrap](http://getbootstrap.com)
 -   [jQuery](https://jquery.com/)
